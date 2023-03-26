@@ -1,0 +1,16 @@
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.exe
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.deps.json
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.json
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.runtimeconfig.dev.json
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.dll
+D:\Programming\university\LinkedList\LinkedList\bin\Debug\net5.0\LinkedList.pdb
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csproj.AssemblyReference.cache
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfoInputs.cache
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.AssemblyInfo.cs
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.dll
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\refint\LinkedList.dll
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.pdb
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\LinkedList.genruntimeconfig.cache
+D:\Programming\university\LinkedList\LinkedList\obj\Debug\net5.0\ref\LinkedList.dll
